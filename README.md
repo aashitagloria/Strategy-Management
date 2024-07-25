@@ -55,7 +55,7 @@ Assessing the value, rarity, imitability, and organization (VRIO) of these resou
 3. Future Research: Suggesting areas for further investigation to gain a deeper understanding of Michel et Augustin or the broader industry.</p>
 
 
-<h1> 📓 COURSE RELATED NOTES 📓 </h1>
+<h1> 📓 COURSE RELATED NOTES  </h1>
 
 <p> After completing this course, I understood how to use analytical tools such as Porter's 5 Forces Model, PESTEL Analysis, SWOT Anaylsis, Scenario Planning, Internal Analysis using Resource-Based View and Current Company Capabilites, Decision making in uncertain situations, and Strategy execution, and CSR. <br> <br>
 
