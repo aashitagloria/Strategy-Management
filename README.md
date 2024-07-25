@@ -62,11 +62,11 @@ Assessing the value, rarity, imitability, and organization (VRIO) of these resou
   Other concepts covered in this course was understanding the Vision and Mission of a few companies in different sectors, Investment choices, Mergers and Acquisition, etc.
 <br> 
 Link to CASE Study Analysis:
-1. Pflizer PART 1: https://docs.google.com/document/d/1BFn9xpl0hyl5_1ag1ZT9x9KIBXS2cJMs/edit?usp=sharing&ouid=114275938040676226521&rtpof=true&sd=true
-2. Pflizer PART 2: https://docs.google.com/document/d/1sTmDz5WpsxtOBkKsLrD2UmhxWU1jynj6/edit?usp=sharing&ouid=114275938040676226521&rtpof=true&sd=true
-3. Zara vs H&M: https://drive.google.com/file/d/104RDajqN968Xz_TEmnGJSuhmhDtdcc9Z/view?usp=sharing
-4. IBM: https://docs.google.com/document/d/1QYnACbMncj6muu0NC3Os1OXPYAAwZIqQ/edit?usp=sharing&ouid=114275938040676226521&rtpof=true&sd=true
-5. Apple: https://drive.google.com/file/d/1xJfGqIe-t6R9DEXmj2VWf__WMM7m-q7s/view?usp=sharing
+1. Pflizer PART 1: <br> https://docs.google.com/document/d/1BFn9xpl0hyl5_1ag1ZT9x9KIBXS2cJMs/edit?usp=sharing&ouid=114275938040676226521&rtpof=true&sd=true<br>
+2. Pflizer PART 2:<br> https://docs.google.com/document/d/1sTmDz5WpsxtOBkKsLrD2UmhxWU1jynj6/edit?usp=sharing&ouid=114275938040676226521&rtpof=true&sd=true<br>
+3. Zara vs H&M: <br> https://drive.google.com/file/d/104RDajqN968Xz_TEmnGJSuhmhDtdcc9Z/view?usp=sharing<br>
+4. IBM: <br> https://docs.google.com/document/d/1QYnACbMncj6muu0NC3Os1OXPYAAwZIqQ/edit?usp=sharing&ouid=114275938040676226521&rtpof=true&sd=true<br>
+5. Apple: <br>https://drive.google.com/file/d/1xJfGqIe-t6R9DEXmj2VWf__WMM7m-q7s/view?usp=sharing
 
 <br>
 </p>
