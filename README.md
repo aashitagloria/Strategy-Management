@@ -7,6 +7,6 @@
 https://drive.google.com/file/d/1lqVKjPMpq-i23asBo1VE4Yt6Emf7AUd1/view?usp=sharing
 
 <h2> Michel et Augustin Case Study: A Strategic Analysis </h2>
-<h3> I. Executive Summary: <h3>
+<h3> I. Executive Summary: </h3>
 <p> Briefly introducing Michel et Augustin and their market positioning. </p>
-<h3> I. Company Overview: <h3>
+<h3> I. Company Overview: </h3>
