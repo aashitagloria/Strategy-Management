@@ -1,4 +1,6 @@
 # Strategy-Management
+
+<h1> PROJECT DESCRIPTION AND ACCESS LINK: </h1>
 <h3> As a part of my M1 course on Strategy Management, I aim to share my expertise my publishing my Final Group Project in this Repository </h3> 
 <br>
 
@@ -53,4 +55,6 @@ Assessing the value, rarity, imitability, and organization (VRIO) of these resou
 3. Future Research: Suggesting areas for further investigation to gain a deeper understanding of Michel et Augustin or the broader industry.</p>
 
 
+<h1> COURSE RELATED NOTES </h1>
 
+<h1> Study Notes: Coming Soon! 🌸STAY TUNED🌸 </h1>
