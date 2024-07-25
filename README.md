@@ -57,9 +57,9 @@ Assessing the value, rarity, imitability, and organization (VRIO) of these resou
 
 <h1> 📓 COURSE RELATED NOTES 📓 </h1>
 
-<p> After completing this course, I understood how to use analytical tools such as Porter's 5 Forces Model, PESTEL Analysis, SWOT Anaylsis, Scenario Planning, Internal Analysis using Resource-Based View and Current Company Capabilites, Decision making in uncertain situations, and Strategy execution, CSR. <br> <br>
+<p> After completing this course, I understood how to use analytical tools such as Porter's 5 Forces Model, PESTEL Analysis, SWOT Anaylsis, Scenario Planning, Internal Analysis using Resource-Based View and Current Company Capabilites, Decision making in uncertain situations, and Strategy execution, and CSR. <br> <br>
 
-  Other concepts covered in this course was understanding the Vision and Mission of a few companies in different sectors, Investment choices, Mergers and Acquisitionm etc.
+  Other concepts covered in this course was understanding the Vision and Mission of a few companies in different sectors, Investment choices, Mergers and Acquisition, etc.
 <br> <br>
 </p>
 
