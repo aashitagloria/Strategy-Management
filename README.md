@@ -67,7 +67,8 @@ Assessing the value, rarity, imitability, and organization (VRIO) of these resou
 2. Pflizer PART 2:<br> https://docs.google.com/document/d/1sTmDz5WpsxtOBkKsLrD2UmhxWU1jynj6/edit?usp=sharing&ouid=114275938040676226521&rtpof=true&sd=true<br>
 3. Zara vs H&M: <br> https://drive.google.com/file/d/104RDajqN968Xz_TEmnGJSuhmhDtdcc9Z/view?usp=sharing<br>
 4. IBM: <br> https://docs.google.com/document/d/1QYnACbMncj6muu0NC3Os1OXPYAAwZIqQ/edit?usp=sharing&ouid=114275938040676226521&rtpof=true&sd=true<br>
-5. Apple: <br>https://drive.google.com/file/d/1xJfGqIe-t6R9DEXmj2VWf__WMM7m-q7s/view?usp=sharing
+5. Walt Disney: <br> https://drive.google.com/file/d/1hdK2hxGKxCIynumFF3xRBR5VTMr0aS-_/view?usp=sharing <br>
+6. Apple: <br>https://drive.google.com/file/d/1xJfGqIe-t6R9DEXmj2VWf__WMM7m-q7s/view?usp=sharing
 
 <br>
 </p>
