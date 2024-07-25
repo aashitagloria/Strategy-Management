@@ -1,6 +1,6 @@
 # Strategy-Management
 
-<h1> PROJECT DESCRIPTION AND ACCESS LINK: </h1>
+<h1> 💻 PROJECT DESCRIPTION AND ACCESS LINK: 💻 </h1>
 <h3> As a part of my M1 course on Strategy Management, I aim to share my expertise my publishing my Final Group Project in this Repository </h3> 
 <br>
 
@@ -55,6 +55,12 @@ Assessing the value, rarity, imitability, and organization (VRIO) of these resou
 3. Future Research: Suggesting areas for further investigation to gain a deeper understanding of Michel et Augustin or the broader industry.</p>
 
 
-<h1> COURSE RELATED NOTES </h1>
+<h1> 📓 COURSE RELATED NOTES 📓 </h1>
+
+<p> After completing this course, I understood how to use analytical tools such as Porter's 5 Forces Model, PESTEL Analysis, SWOT Anaylsis, Scenario Planning, Internal Analysis using Resource-Based View and Current Company Capabilites, Decision making in uncertain situations, and Strategy execution, CSR. <br> <br>
+
+  Other concepts covered in this course was understanding the Vision and Mission of a few companies in different sectors, Investment choices, Mergers and Acquisitionm etc.
+<br> <br>
+</p>
 
 <h1> Study Notes: Coming Soon! 🌸STAY TUNED🌸 </h1>
